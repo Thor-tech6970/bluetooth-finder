@@ -1,0 +1,2 @@
+rootProject.name='BluetOOth finder'
+include ':app'
